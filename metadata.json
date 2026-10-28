@@ -1,0 +1,6 @@
+{
+  "name": "CineVerse Movie Hub",
+  "description": "Movie & TV show streaming application clone tailored with mobile app alignment and responsive PC desktop UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
